@@ -1,3 +1,3 @@
 # gitco
 <br> 
-it is my git demo website
+it is my git demo website(dinesh kumar)
